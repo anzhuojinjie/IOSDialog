@@ -7,9 +7,9 @@
 
 看下效果图：https://github.com/anzhuojinjie/IOSDialog/blob/master/img/11.png
 
-![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/11.png)![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/12.png)![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/13.png)![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/14.png)![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/15.png)
+![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/11.png)![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/12.png)![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/13.png)
+![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/14.png)![](https://github.com/anzhuojinjie/IOSDialog/blob/master/img/15.png)
 
-![enter description here][1]![enter description here][2]![enter description here][3]
 
 # 使用方法
 

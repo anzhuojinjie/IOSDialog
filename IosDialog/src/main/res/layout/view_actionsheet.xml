@@ -43,7 +43,7 @@
         android:background="@drawable/actionsheet_single_selector"
         android:gravity="center"
         android:text="取消"
-        android:textColor="@color/actionsheet_blue"
+        android:textColor="@color/color_858585"
         android:textSize="18sp"
         android:textStyle="bold" />
 

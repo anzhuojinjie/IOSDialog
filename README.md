@@ -226,6 +226,22 @@ dependencies {
     }
 ```
 
+1.0.3增加一个可以支持任意布局的dialog
+``` 
+    CustomDialog customDialog;
+    private void initdialog(){
+        CustomDialog.Builder builder = new CustomDialog.Builder(MainActivity.this);
+        customDialog = builder.view(R.layout.dialog)
+                .size(0.6,1)
+                .location(Gravity.BOTTOM)
+                .canTouchout(true)
+                .cancelBackPress(false)
+                .build();
+    }
+```
+
+
+
 
 如有疑问欢迎加入
 群名称：安卓开发交流群

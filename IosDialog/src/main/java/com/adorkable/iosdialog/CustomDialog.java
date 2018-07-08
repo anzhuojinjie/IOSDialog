@@ -3,7 +3,6 @@ import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.os.Bundle;
-import android.support.annotation.IdRes;
 import android.view.Display;
 import android.view.Gravity;
 import android.view.KeyEvent;
@@ -87,7 +86,7 @@ public class CustomDialog extends Dialog {
     };
 
     //
-    public <T extends View> T getView(@IdRes int resId) {
+    public <T extends View> T getView(int resId) {
         return (T) view.findViewById(resId);
     }
 
